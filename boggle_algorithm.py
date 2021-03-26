@@ -76,7 +76,7 @@ class solution:
         
 board = [list("pingu"), list("ringu"), list("tingu"),list("nangu"),list("budhu")]
 for b in board: print(b)
-word = ["pingu", "budhu","randikachut", "iiau"]
+word = ["pingu", "budhu","sangu", "iiau"]
 obj = solution(board)
 obj.convert_to_hash()
 
